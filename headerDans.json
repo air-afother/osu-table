@@ -1,6 +1,6 @@
 {
   "data_url": "osu_mania_7k_8k_final.json",
-  "name": "osumania 7k + 8k star rating table",
+  "name": "osumania 7k + 8k star rating table aa test",
   "symbol": "*",
   "level_order": [
     "0",
@@ -342,4 +342,5 @@
     }
   ]
 }
+
 
