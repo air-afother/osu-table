@@ -30,7 +30,7 @@
     "12",
     "18"
   ],
-  "courses": [
+  "course": [
     {
       "name": "Regular Dan Phase I 7K 0th Dan Marathon",
       "constraint": [
@@ -50,10 +50,7 @@
         "ln"
       ],
       "md5": [
-        "d2dde2e1cdfb0fdeaa975aea4ae33e42",
-        "f33d7c8df46e579996951e63746c3217",
-        "b2deac5abe831acc34b4cb053f1949a1",
-        "f198256f6da1b0a95f8e267196333045"
+        "d2dde2e1cdfb0fdeaa975aea4ae33e42"
       ]
     },
     {
@@ -344,6 +341,7 @@
     }
   ]
 }
+
 
 
 
