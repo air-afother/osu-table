@@ -32,7 +32,7 @@
   ],
   "courses": [
     {
-      "name": "Regular Dan Phase I [[7K] 0th Dan (Marathon)]",
+      "name": "Regular Dan Phase I 7K 0th Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase I [[7K] 1st Dan (Marathon)]",
+      "name": "Regular Dan Phase I 7K 1st Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase I [[7K] 2nd Dan (Marathon)]",
+      "name": "Regular Dan Phase I 7K 2nd Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase I [[7K] 3rd Dan (Marathon)]",
+      "name": "Regular Dan Phase I 7K 3rd Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase II [[7K] 4th Dan (Marathon)]",
+      "name": "Regular Dan Phase II 7K 4th Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase II [[7K] 5th Dan (Marathon)]",
+      "name": "Regular Dan Phase II 7K 5th Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase II [[7K] 6th Dan (Marathon)]",
+      "name": "Regular Dan Phase II 7K 6th Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase II [[7K] 7th Dan (Marathon)]",
+      "name": "Regular Dan Phase II 7K 7th Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase II [[7K] 8th Dan (Marathon)]",
+      "name": "Regular Dan Phase II 7K 8th Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase III [[7K] 10th Dan]",
+      "name": "Regular Dan Phase III 7K 10th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase III [[7K] 9th Dan]",
+      "name": "Regular Dan Phase III 7K 9th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase III [[7K] Azimuth Dan]",
+      "name": "Regular Dan Phase III 7K Azimuth Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase III [[7K] Gamma Dan]",
+      "name": "Regular Dan Phase III 7K Gamma Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "name": "Regular Dan Phase III [[7K] Zenith Dan]",
+      "name": "Regular Dan Phase III 7K Zenith Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase I [[7K] 0th Dan (Marathon)]",
+      "name": "LN Dan Phase I 7K 0th Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase I [[7K] 1st Dan (Marathon)]",
+      "name": "LN Dan Phase I 7K 1st Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase I [[7K] 2nd Dan (Marathon)]",
+      "name": "LN Dan Phase I 7K 2nd Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase I [[7K] 3rd Dan (Marathon)]",
+      "name": "LN Dan Phase I 7K 3rd Dan Marathon",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase II [[7K] 4th Dan]",
+      "name": "LN Dan Phase II 7K 4th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase II [[7K] 5th Dan]",
+      "name": "LN Dan Phase II 7K 5th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase II [[7K] 6th Dan]",
+      "name": "LN Dan Phase II 7K 6th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase II [[7K] 7th Dan]",
+      "name": "LN Dan Phase II 7K 7th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase II [[7K] 8th Dan]",
+      "name": "LN Dan Phase II 7K 8th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase III [[7K] 10th Dan]",
+      "name": "LN Dan Phase III 7K 10th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase III [[7K] 9th Dan]",
+      "name": "LN Dan Phase III 7K 9th Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase III [[7K] Azimuth Dan]",
+      "name": "LN Dan Phase III 7K Azimuth Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase III [[7K] Gamma Dan]",
+      "name": "LN Dan Phase III 7K Gamma Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "name": "LN Dan Phase III [[7K] Zenith Dan]",
+      "name": "LN Dan Phase III 7K Zenith Dan",
       "constraint": [
         "grade_mirror",
         "gauge_lr2",
