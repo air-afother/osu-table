@@ -1,6 +1,6 @@
 {
   "data_url": "osu_mania_7k_8k_final.json",
-  "name": "osumania 7k + 8k star rating table aa test",
+  "name": "osumania 7k + 8k star rating table",
   "symbol": "*",
   "level_order": [
     "0",
@@ -51,7 +51,9 @@
       ],
       "md5": [
         "d2dde2e1cdfb0fdeaa975aea4ae33e42",
-         "f33d7c8df46e579996951e63746c3217"
+        "f33d7c8df46e579996951e63746c3217",
+        "b2deac5abe831acc34b4cb053f1949a1",
+        "f198256f6da1b0a95f8e267196333045"
       ]
     },
     {
@@ -342,5 +344,6 @@
     }
   ]
 }
+
 
 
